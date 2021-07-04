@@ -8,8 +8,7 @@ comments: false
 <p align="center">
     <img src="ProfessionalPhoto.jpg" class="img-circle">
 </p>
-\
-\
+<br />
 When I began using computers, I was intrigued to understand what was behind the graphical user interface. Since then, I have been on a continuous journey to learn the theory behind computers, the methodology of how they work, and to further my computer science knowledge. Through this, I discovered my passion for creating clean, user‐friendly software applications.\
 \
 I have gained a significant level of knowledge of how computers work, the theory behind them and why we need computer scientists in the world of work. Studying Computer Science at the University of Regina increased my knowledge, as well as my desire to want to learn more about this subject. To be successful as a student, I have found it is important to be organised, capable of independent research, and to have both written and verbal communication skills. However, it is also very important, in computer science, to be able to analyse problems and work out solutions and to program the solutions to meet user’s needs if there is a gap in the market.\
