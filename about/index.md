@@ -5,7 +5,8 @@ tags: [about, me, Bernadette, Veninata]
 date: 2021-07-05
 comments: false
 ---
-assets/img/ProfessionalPhoto.jpg
+
+<img src="assets/img/ProfessionalPhoto.jpg">
 
 When I began using computers, I was intrigued to understand what was behind the graphical user interface. Since then, I have been on a continuous journey to learn the theory behind computers, the methodology of how they work, and to further my computer science knowledge. Through this, I discovered my passion for creating clean, user‐friendly software applications.\
 \
