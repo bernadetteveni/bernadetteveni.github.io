@@ -24,16 +24,9 @@ layout: compress
 			            </a>
                     </h3>
                     <hr class="hr-line">
-                    <h3 class="title">
-                        <a href="{{ site.url }}">
-                        	<p style="font-size:1rem;font-weight:300">{{ site.bio }}</p>
-			            </a>
-                    </h3>
-                    {% include social-links.html %}
-                  <hr class="hr-line">
-                  <h3 class="title">
+                     <h3 class="title">
                          <a class="btn zoombtn" href="{{ site.url }}/about">
-                         About
+                         About Me
                          </a>
                          <a class="btn zoombtn" href="{{ site.url }}/posts">
                          Posts
@@ -41,7 +34,18 @@ layout: compress
                          <a class="btn zoombtn" href="{{ site.url }}/projects">
                          Projects
                          </a>
-                 </h3>
+                         <a class="btn zoombtn" href="assets/img/BernadetteVeninataResume.pdf" target="_blank">
+                         Resume
+                         </a>
+                    </h3>
+                    <h3 class="title">
+                        <a href="{{ site.url }}">
+                        	<p style="font-size:1rem;font-weight:300">{{ site.bio1 }}</p>
+                            <p class="bio2" style="font-size:0.90rem;font-weight:275;">{{ site.bio2 }}</p>
+			            </a>
+                    </h3>
+                  <hr class="hr-line">
+                {% include social-links.html %}
             </div>
         </div>
     </header>
